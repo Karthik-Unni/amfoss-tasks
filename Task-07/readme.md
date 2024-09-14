@@ -1,1 +1,1 @@
-
+The task 7 was a really confusing one for me.I did whatever i have understood from the question .The question ,i dont know,might be easy but for me personaly it was confusing.Thats why i have partially completed it.
