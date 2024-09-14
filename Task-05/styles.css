@@ -1,0 +1,134 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+
+.container {
+    display: flex;
+    height: 100vh;
+}
+
+.product-catalog {
+    width: 60%;
+    display: flex;
+    flex-wrap: wrap;
+    padding: 10px;
+    box-sizing: border-box;
+}
+
+.product {
+    width: calc(33.333% - 20px);
+    margin: 10px;
+    box-sizing: border-box;
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    overflow: hidden;
+    text-align: center;
+}
+
+.product img {
+    width: 100%;
+    height: auto;
+    display: block;
+    object-fit: cover;
+}
+
+.product p {
+    margin: 10px 0;
+}
+
+.terminal {
+    width: 40%;
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+    box-sizing: border-box;
+}
+
+.terminal-window {
+    background-color: #000;
+    height: 100%;
+    padding: 10px;
+    overflow-y: auto;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.terminal-output {
+    white-space: pre-wrap;
+    word-wrap: break-word;
+    margin-bottom: 5px;
+}
+
+.prompt {
+    margin-right: 5px;
+}
+
+input[type="text"] {
+    background-color: transparent;
+    border: none;
+    color: #fff;
+    outline: none;
+    flex-grow: 1;
+}
+
+#checkout-page {
+    padding: 20px;
+}
+
+#checkout-page h2 {
+    margin-top: 0;
+}
+
+#checkout-items p {
+    margin: 10px 0;
+}
+
+#total-amount {
+    font-weight: bold;
+    margin: 20px 0;
+}
+
+button {
+    margin-right: 10px;
+    padding: 10px 20px;
+    border: none;
+    background-color: #333;
+    color: #fff;
+    cursor: pointer;
+    border-radius: 5px;
+}
+/* Checkout Page Styles */
+#checkout-page {
+    background-color: #fff;
+    border-radius: 10px;
+    padding: 30px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    max-width: 600px;
+    margin: 50px auto;  /* Center horizontally with margin */
+    font-family: Arial, sans-serif;
+}
+
+#checkout-page h1 {
+    font-size: 2em;
+    margin-bottom: 20px;
+    color: #333;
+    font-weight: bold;
+}
+
+#checkout-items {
+    margin-bottom: 20px;
+    font-size: 1.2em;
+    color: #555;
+    text-align: left; /* Align text to the left for better readability */
+    max-width: 500px;
+    margin: 0 auto; /* Center the items list within the checkout page */
+}
+
+#total-amount {
+    font-size: 1.5em;
+    font-weight: bold;
+    color: #333;
+    margin-top: 20px;
+}

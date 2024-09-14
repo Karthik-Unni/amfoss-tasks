@@ -1,0 +1,2 @@
+https://t.me/books_pal_bot
+The above link is the telegram bot i have created.I couldnt complete with all the functions and i didnt have the time to learn the functions and implement .I have completed the commands of book,start,help and preview. The list and reading list functions are the ones i couldnt do.This task was a very interesting task as i was able to learn abit the functions and the things required for building a telegram bot.Also Invoking the API was also a thing i could learn.The time constraint was the one thing that prevented me from doing all the functions.
