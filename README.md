@@ -19,3 +19,19 @@ My fields of interest are :
   Mobile app development 
 
 My plan on working on them is to start learning the basics and build it gradually .Follow it by practicing consistently , joining online communities ,work on projects to apply the learnt knowledge .I also would commuicate with my peers with similar interest in the club and try to enhance my skills. Staying updated with emerging trends and advancements is also a crucial requirement in this field, according to me.
+
+
+
+|Tasks|Description|Status|
+|:---:|:---------:|:----:|
+|00|Installing Linux|Completed|
+|01|Type Maestro|Completed|
+|02|Terminal Chaos|Completed|
+|03|Hello,World|Partially Completed|
+|04|Gopal and pagepal| Completed|
+|05|Terminal Trolly|Completed|
+|06|OpenDocs|Completed|
+|07|Pirates Dilema|Partially Completed|
+|08|Blog Burst|Completed|
+|09|Hero-Dex|Not Completed|
+|10|Operation Pixel Merge|Completed|
